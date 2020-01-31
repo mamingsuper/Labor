@@ -1,2 +1,2 @@
-# Labor-Article
+# Labor
 RF Model Inference
