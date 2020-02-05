@@ -1,8 +1,13 @@
 
-Hope the project to be finished before May
+Labor Market Bargainig Power and Collective Action Willingness
 ==========================================
 
-# Labor
-RF Model Inference
-The main purpose is to estimate the impacts of education on willingness
-## The Beginning Date is 2020-02-01
+###  1. Casual Inference and Random Forrest Model<br>
+
+####  1.1Tradition Estimate Method of Causal Inference
+
+Due to the limmited sample problem, the ***heterogeneity*** has yet been fully discussed. <br> Recently the potentional individual treatment effect has rasied great attention in new developed model.
+
+
+
+
